@@ -1,6 +1,6 @@
 {
   "name": "ember-leaflet-hurry",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Leaflet Ember addon for people in a hurry.",
   "directories": {
     "doc": "doc",
