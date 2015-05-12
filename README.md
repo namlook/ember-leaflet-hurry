@@ -1,6 +1,6 @@
 # Ember-leaflet-hurry
 
-This README outlines the details of collaborating on this Ember addon.
+A Leaflet Ember addon for people in a hurry.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
   "name": "ember-leaflet-hurry",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A Leaflet Ember addon for people in a hurry.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,9 +11,9 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/namlook/ember-leaflet-hurry",
   "engines": {
-    "node": ">= 0.10.0"
+    "node": ">= 0.12.0"
   },
   "author": "",
   "license": "MIT",
@@ -34,7 +34,8 @@
     "ember-try": "0.0.4"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "eureka-widget"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.0.0"
